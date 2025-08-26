@@ -4,9 +4,9 @@
 
 This repository contains the comprehensive **testing documentation** for **sCalc**, a modern web-based calculator application. This project was a crucial step in a comprehensive quality assurance assessment, designed to rigorously evaluate the application's core features and overall stability.
 
-**Tester:** Junaid
+**Tester:** Junaid 
 **Project Date:** AUGUST 2025
-**GitHub Repository:** `JUNAID-Web123/Prodigy_Internship`
+**GitHub Repository:** JUNAID-Web123/Prodigy_Internship
 
 ---
 
