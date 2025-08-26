@@ -6,7 +6,7 @@ This repository contains the comprehensive **testing documentation** for **sCalc
 
 **Tester:** Junaid 
 **Project Date:** AUGUST 2025
-**GitHub Repository:** JUNAID-Web123/Prodigy_Internship
+**GitHub Repository:** https://github.com/JUNAID-Web123/Prodigy_Internship
 
 ---
 
@@ -25,7 +25,7 @@ The structured testing process included:
 ### Application Under Test (AUT)
 
 * **Application Name:** sCalc
-* **URL:** `https://dunizb.github.io/sCalc/`
+* **URL:**https://dunizb.github.io/sCalc
 
 ---
 
