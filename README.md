@@ -1,6 +1,4 @@
-Here is the enhanced version of the provided content, with the requested changes.
 
-***
 
 ### Software Testing Project: sCalc Web Calculator
 
