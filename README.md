@@ -6,7 +6,7 @@ This repository contains the comprehensive **testing documentation** for **sCalc
 
 **Tester:** Junaid 
 **Project Date:** AUGUST 2025
-**GitHub Repository:** https://github.com/JUNAID-Web123/Prodigy_Internship
+**GitHub Repository:** https://github.com/JUNAID-Web123/Prodigy_Internship_Task01
 
 ---
 
@@ -71,6 +71,6 @@ The following high-priority bugs were identified during the rigorous test execut
 
 This repository serves as a complete and centralized hub for all project documentation.
 
-📊 **View Test Execution Report Spreadsheet** ➡️ https://github.com/JUNAID-Web123/Prodigy_Internship/blob/main/PRODIGY_ST_TASK_01.xlsx
+📊 **View Test Execution Report Spreadsheet** ➡️ https://github.com/JUNAID-Web123/Prodigy_Internship_Task01/blob/main/PRODIGY_ST_TASK_01.xlsx
 
 This file contains the raw, detailed test execution data in a spreadsheet format, providing a transparent view of the testing process. This thorough testing process has successfully identified key areas for improvement and provided clear, actionable feedback for the development team.
